@@ -45,6 +45,7 @@ Refer to the issues section: https://github.com/android10/Android-Movies collect
 
  ## Screenshot
  
-<img src="https://user-images.githubusercontent.com/87113057/145519818-0cc0fcdd-f953-42ff-ae83-4eb24261873f.png" width="160" height="320" /> <img src="https://user-images.githubusercontent.com/87113057/145520159-f7312e71-0920-4343-86c5-380ec46d6bfb.png" width="160" height="320" />
+<img src="https://user-images.githubusercontent.com/87113057/145519818-0cc0fcdd-f953-42ff-ae83-4eb24261873f.png" width="160" height="320" /> <img src="https://user-images.githubusercontent.com/87113057/145520159-f7312e71-0920-4343-86c5-380ec46d6bfb.png" width="160" height="320" /> <img src="https://user-images.githubusercontent.com/87113057/145527665-12083c23-49ad-41c5-a959-5898be9b6d90.png" width="160" height="320" />
+
 
 
