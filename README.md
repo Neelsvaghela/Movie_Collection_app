@@ -1,47 +1,30 @@
-# Android - Movies collection - Kotlin [![Build Status](https://travis-ci.org/android10/Android-Movies collection-Kotlin.svg?branch=main)](https://travis-ci.org/android10/Android-Movies collection-Kotlin) [![codecov](https://codecov.io/gh/android10/Android-Movies collection-Kotlin/branch/main/graph/badge.svg?token=x1AtDcNuDv)](https://codecov.io/gh/android10/Android-Movies collection-Kotlin)
+# MAD Assignment-2
+
+# Android - Movies collection - Kotlin 
 The purpose of this repo is to follow up Movies collection principles by bringing them to Android. It is worth saying that the idea is to take advantage of the Kotlin Programming Language features plus also pull in lessons learned and ideas from other interesting approaches like Functional Programming.
 
 ## Blog post with implementation details explanation:
 Movies collection Application
 
 ## Android - Movies collection
-There is another Android Clean Architecture repository written in Java: https://github.com/android10/Android-Movies collection with really nice discussions: https://github.com/android10/Android-Movies collection/issues.
-Article, lessons learned and some more material coming up. Check the following known bugs and TODO list. 
-
-### ----------------------------------------------------------------------------------------------
 
 ## Movies collection
-![Movies collection-android-reloaded/](https://github.com/android10/Sample-Data/blob/master/Android-Movies collection-Kotlin/reloaded_main.png)
 
-### ----------------------------------------------------------------------------------------------
+# Step-1:
 
-## Android 3 Layers Architecture
-![Movies collection-android-reloaded/](https://github.com/android10/Sample-Data/blob/master/Android-Movies collection-Kotlin/reloaded_layers.png)
+![image](https://user-images.githubusercontent.com/87113057/146013713-ba79cf5f-090b-4380-a7ad-caafc95dc451.png)
 
-### ----------------------------------------------------------------------------------------------
+# Step-2:
 
-## UI Layer: MVVM 
-![Movies collection-android-reloaded/](https://github.com/android10/Sample-Data/blob/master/Android-Movies collection-Kotlin/reloaded_mvvm_app.png)
+![image](https://user-images.githubusercontent.com/87113057/146015298-54d20544-d338-462f-b2ed-0f93ba8dbbd3.png)
 
-### ----------------------------------------------------------------------------------------------
+# Step-3:
 
-## Data Layer: Repository 
-![/Movies collection-android-reloaded/](https://github.com/android10/Sample-Data/blob/master/Android-Movies collection-Kotlin/reloaded_repository.png)
+![image](https://user-images.githubusercontent.com/87113057/146016005-f503e5bf-9d02-452b-8b23-22851f4b34b3.png)
 
-### ----------------------------------------------------------------------------------------------
-
-## Local Development
-Here are some useful Gradle/adb commands for executing this example:
-
- * `./gradlew runApp` - Builds and install the debug apk on the current connected device.
- * `./gradlew compileApp` - Builds the debug apk.
- * `./gradlew runUnitTests` - Execute unit tests (both unit and integration).
- * `./gradlew runAcceptanceTests` - Execute acceptance and instrumentation tests in the connected device.
- * `./gradlew runTestCoverage` - Reports code coverage on tests within the Android codebase.
- * `./gradlew runStaticCodeAnalysis` - Run static analysis on the Android codebase.
+ # Step-4(Here You can find .apk file):
  
-## Discussions
-Refer to the issues section: https://github.com/android10/Android-Movies collection-Kotlin/issues
+ ![image](https://user-images.githubusercontent.com/87113057/146016804-d3eb078b-9c21-4a44-8cbb-19e831a1c01e.png)
 
  ## Screenshot
  
